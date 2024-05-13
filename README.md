@@ -11,3 +11,4 @@ https://protobuf.dev/getting-started/csharptutorial/
 
 # VSCode Extensions
 peterj.proto
+ms-dotnettools.csdevkit
